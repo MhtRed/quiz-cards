@@ -7,4 +7,4 @@ This is a quiz-card-app built using create-react-app
 - fetch API for data fetching & Consuming an external API
      
 ## Demo
-Check it out: [https://mhtred.github.io/quiz-cards/](https://mhtred.github.io/quiz-cards/)
+Check it out 🚀: [https://mhtred.github.io/quiz-cards/](https://mhtred.github.io/quiz-cards/)
