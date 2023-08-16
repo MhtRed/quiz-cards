@@ -1,6 +1,6 @@
 A simple Card-Quiz App:
 Technologies, Libraries & Tools used:
 -> Reactjs for the User Interface.
--> Pure CSS for Styling.
--> useState hook Management.
+-> Pure CSS for Styling
+-> useState hook Management
 -> fetch API for data fetching & Consuming an external API
